@@ -12,6 +12,6 @@ Note: Add Correct MongoDB Url to mongoose.connect('ADD_DB_URL_WITH_USERNAME_AND_
 <h3>Terminal command to run application</h3>
 node app
 
-<h3>Tutorial by code The net ninja</h3>
+<h3>Tutorial by The net ninja</h3>
 [Tutorial playlist available here](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 
